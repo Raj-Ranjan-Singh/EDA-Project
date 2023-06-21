@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Dataset EDA
+# Bank-Customer-Churn-Dataset EDA Using Python
 
 About the Dataset:
 This Dataset contains the information about the customers(10000+ customers) that have an
